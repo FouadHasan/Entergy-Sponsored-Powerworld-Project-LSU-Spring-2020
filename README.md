@@ -1,3 +1,3 @@
 # Enetergy-Sponsored-Powerworld-Project-LSU-Spring-2020
-This lab is developed by LSU jointly with Enetergy to train LSU electrical engineering students in PowerWorld software. I have actively participated in developing this course materials and lecture slides. I have also wroked as final powerworld project grader for senior students. 
+This lab is developed by LSU jointly with Entergy to train LSU electrical engineering students in PowerWorld software. I have actively participated in developing this course materials and lecture slides. I have also wroked as final powerworld project grader for senior students. 
 PowerWorld is a popular power system simulation software. It is extensively used in planning and market analysis. It supports Steady-State Power System Security Analysis, Transient Stability Analysis, Power System Economics and Market Modeling etc. The student version is available in https://www.powerworld.com/
